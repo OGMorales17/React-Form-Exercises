@@ -1,0 +1,9 @@
+.Box {
+    margin-top: 20px;
+    display: inline-flex;
+    margin-left: 10px;
+}
+
+.Button {
+    margin-bottom: 95px;
+}
